@@ -35,4 +35,17 @@ body {
     border-radius: 5px;
     cursor: pointer;
   }
- 
+  #myButton {
+    background-color: rgb(7, 125, 158);
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+  }
+  
+  #myButton:hover {
+    background-color: darkblue;
+    cursor: pointer;
+  }
+  
